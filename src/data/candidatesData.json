@@ -1,0 +1,125 @@
+{
+    "candidates": [
+      {
+        "id": 1,
+        "name": "Ahmed Benali",
+        "identificationNumber": "AB12345",
+        "examDate": "2023-09-20",
+        "location": "Casablanca",
+        "paymentStatus": "Payé"
+      },
+      {
+        "id": 2,
+        "name": "Fatima Zouhair",
+        "identificationNumber": "CD67890",
+        "examDate": "2023-09-25",
+        "location": "Rabat",
+        "paymentStatus": "En attente de paiement"
+      },
+      {
+        "id": 3,
+        "name": "Youssef ElHassani",
+        "identificationNumber": "EF12345",
+        "examDate": "2023-09-28",
+        "location": "Fès",
+        "paymentStatus": "Payé"
+      },
+      {
+        "id": 4,
+        "name": "Houda AitOmar",
+        "identificationNumber": "GH67890",
+        "examDate": "2023-09-30",
+        "location": "Marrakech",
+        "paymentStatus": "Payé"
+      },
+      {
+        "id": 5,
+        "name": "Karim Benslimane",
+        "identificationNumber": "IJ12345",
+        "examDate": "2023-10-05",
+        "location": "Tanger",
+        "paymentStatus": "En attente de paiement"
+      },
+      {
+        "id": 6,
+        "name": "Sara ElMansouri",
+        "identificationNumber": "KL67890",
+        "examDate": "2023-10-10",
+        "location": "Agadir",
+        "paymentStatus": "Payé"
+      },
+      {
+        "id": 7,
+        "name": "Khalid Essaidi",
+        "identificationNumber": "MN12345",
+        "examDate": "2023-10-15",
+        "location": "Oujda",
+        "paymentStatus": "En attente de paiement"
+      },
+      {
+        "id": 8,
+        "name": "Leila Berrada",
+        "identificationNumber": "OP67890",
+        "examDate": "2023-10-20",
+        "location": "Agadir",
+        "paymentStatus": "Payé"
+      },
+      {
+        "id": 9,
+        "name": "Omar Chakir",
+        "identificationNumber": "QR12345",
+        "examDate": "2023-10-25",
+        "location": "Rabat",
+        "paymentStatus": "En attente de paiement"
+      },
+      {
+        "id": 10,
+        "name": "Nadia ElFassi",
+        "identificationNumber": "ST67890",
+        "examDate": "2023-10-30",
+        "location": "Fès",
+        "paymentStatus": "Payé"
+      },
+      {
+        "id": 11,
+        "name": "Jamal Bensouda",
+        "identificationNumber": "UV12345",
+        "examDate": "2023-11-05",
+        "location": "Marrakech",
+        "paymentStatus": "En attente de paiement"
+      },
+      {
+        "id": 12,
+        "name": "Samira Laaroussi",
+        "identificationNumber": "WX67890",
+        "examDate": "2023-11-10",
+        "location": "Tanger",
+        "paymentStatus": "Payé"
+      },
+      {
+        "id": 13,
+        "name": "Mehdi Bouhaddi",
+        "identificationNumber": "YZ12345",
+        "examDate": "2023-11-15",
+        "location": "Agadir",
+        "paymentStatus": "En attente de paiement"
+      },
+      {
+        "id": 14,
+        "name": "Loubna ElOuafi",
+        "identificationNumber": "AB56789",
+        "examDate": "2023-11-20",
+        "location": "Oujda",
+        "paymentStatus": "Payé"
+      },
+      {
+        "id": 15,
+        "name": "Rachid Benkirane",
+        "identificationNumber": "CD56789",
+        "examDate": "2023-11-25",
+        "location": "Casablanca",
+        "paymentStatus": "Payé"
+      }
+    ]
+  }
+  

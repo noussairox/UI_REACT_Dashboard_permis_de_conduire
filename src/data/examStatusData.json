@@ -1,0 +1,80 @@
+{
+    "examStatus": [
+      {
+        "id": 1,
+        "name": "Ahmed Benali",
+        "examSuccess": true
+      },
+      {
+        "id": 2,
+        "name": "Fatima Zouhair",
+        "examSuccess": false
+      },
+      {
+        "id": 3,
+        "name": "Youssef ElHassani",
+        "examSuccess": true
+      },
+      {
+        "id": 4,
+        "name": "Houda AitOmar",
+        "examSuccess": true
+      },
+      {
+        "id": 5,
+        "name": "Karim Benslimane",
+        "examSuccess": false
+      },
+      {
+        "id": 6,
+        "name": "Sara ElMansouri",
+        "examSuccess": true
+      },
+      {
+        "id": 7,
+        "name": "Khalid Essaidi",
+        "examSuccess": false
+      },
+      {
+        "id": 8,
+        "name": "Leila Berrada",
+        "examSuccess": true
+      },
+      {
+        "id": 9,
+        "name": "Omar Chakir",
+        "examSuccess": false
+      },
+      {
+        "id": 10,
+        "name": "Nadia ElFassi",
+        "examSuccess": true
+      },
+      {
+        "id": 11,
+        "name": "Jamal Bensouda",
+        "examSuccess": false
+      },
+      {
+        "id": 12,
+        "name": "Samira Laaroussi",
+        "examSuccess": true
+      },
+      {
+        "id": 13,
+        "name": "Mehdi Bouhaddi",
+        "examSuccess": false
+      },
+      {
+        "id": 14,
+        "name": "Loubna ElOuafi",
+        "examSuccess": true
+      },
+      {
+        "id": 15,
+        "name": "Rachid Benkirane",
+        "examSuccess": true
+      }
+    ]
+  }
+  

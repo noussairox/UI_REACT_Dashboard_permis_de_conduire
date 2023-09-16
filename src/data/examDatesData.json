@@ -1,0 +1,109 @@
+{
+  "examDates": [
+    {
+      "id": 1,
+      "date": "2023-09-20T09:00:00",
+      "location": "Casablanca",
+      "availableSeats": 10,
+      "eventDetails":"Examen de conduit"
+    },
+    {
+      "id": 2,
+      "date": "2023-09-25T14:30:00",
+      "location": "Rabat",
+      "availableSeats": 5,
+      "eventDetails":"Examen de conduit"
+    },
+    {
+      "id": 3,
+      "date": "2023-09-28T10:15:00",
+      "location": "Fès",
+      "availableSeats": 8,
+      "eventDetails":"Examen de code"
+    },
+    {
+      "id": 4,
+      "date": "2023-09-30T13:45:00",
+      "location": "Marrakech",
+      "availableSeats": 12,
+      "eventDetails":"Examen de code"
+    },
+    {
+      "id": 5,
+      "date": "2023-10-05T11:30:00",
+      "location": "Tanger",
+      "availableSeats": 7,
+      "eventDetails":"Examen de code"
+    },
+    {
+      "id": 6,
+      "date": "2023-10-10T09:00:00",
+      "location": "Agadir",
+      "availableSeats": 9,
+      "eventDetails":"Examen de conduit"
+    },
+    {
+      "id": 7,
+      "date": "2023-10-15T15:30:00",
+      "location": "Oujda",
+      "availableSeats": 11,
+      "eventDetails":"Examen de code"
+    },
+    {
+      "id": 8,
+      "date": "2023-10-20T08:45:00",
+      "location": "Casablanca",
+      "availableSeats": 6,
+      "eventDetails":"Examen de code"
+    },
+    {
+      "id": 9,
+      "date": "2023-10-25T12:00:00",
+      "location": "Rabat",
+      "availableSeats": 8,
+      "eventDetails":"Examen de code"
+    },
+    {
+      "id": 10,
+      "date": "2023-10-30T10:30:00",
+      "location": "Fès",
+      "availableSeats": 10,
+      "eventDetails":"Examen de code"
+    },
+    {
+      "id": 11,
+      "date": "2023-11-05T14:00:00",
+      "location": "Marrakech",
+      "availableSeats": 5,
+      "eventDetails":"Examen de conduit"
+    },
+    {
+      "id": 12,
+      "date": "2023-11-10T16:15:00",
+      "location": "Tanger",
+      "availableSeats": 12,
+      "eventDetails":"Examen de conduit"
+    },
+    {
+      "id": 13,
+      "date": "2023-11-15T10:45:00",
+      "location": "Agadir",
+      "availableSeats": 7,
+      "eventDetails":"Examen de code"
+    },
+    {
+      "id": 14,
+      "date": "2023-11-20T13:30:00",
+      "location": "Oujda",
+      "availableSeats": 9,
+      "eventDetails":"Examen de conduit"
+    },
+    {
+      "id": 15,
+      "date": "2023-11-25T11:00:00",
+      "location": "Casablanca",
+      "availableSeats": 10,
+      "eventDetails":"Examen de conduit"
+    }
+  ]
+}
