@@ -26,7 +26,7 @@ export default function ExamDateList() {
         <div className="w-1/2 lg:w-1/6 bg-gray-800 text-white">
           <Sidebar />
         </div>
-        <div className="w-full p-4">
+        <div className="w-[70%] lg:w-full p-4">
           <h1 className='text-center font-mono text-xl text-blue-500'>Date D'examen</h1>
           <div className="container mx-auto p-4">
             <h1 className="text-3xl font-semibold text-center my-4">Calendrier des Dates d'Examen</h1>
@@ -43,7 +43,9 @@ export default function ExamDateList() {
               startAccessor="start"
               endAccessor="end"
               views={['month', 'agenda']}
-              style={{ height: 500 }}
+              className="w-full"
+              style={{ height: 'auto', minHeight: '400px', maxHeight: '600px' }} // Réglez la hauteur sur 'auto' pour qu'elle s'ajuste automatiquement
+              
               formats={{
                 eventTimeRangeFormat: ({ start, end }, culture, localizer) =>
                   localizer.format(start, 'MMMM D, YYYY HH:mm', culture) + ' - ' + localizer.format(end, 'HH:mm', culture),
@@ -59,7 +61,7 @@ export default function ExamDateList() {
               onSelectEvent={handleEventClick}
             />
             {selectedEvent && (
-              <div className="mt-4">
+              <div className="mt-10 xl:mt-6">
                 <h2 className="text-lg font-semibold text-blue-600">Détails de la Date d'Examen</h2>
                 <p>Date: {moment(selectedEvent.start).format('MMMM D, YYYY HH:mm')}</p>
                 <p>Emplacement: {selectedEvent.location}</p>
